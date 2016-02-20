@@ -35,4 +35,4 @@ function parse(text) {
 	return topResult ? topResult.result : null;
 }
 
-console.log(parse('remind me to exercise well at 1pm'));
+console.log(parse('remind me to exercise well in 36 hours'));
