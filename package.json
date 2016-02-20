@@ -1,0 +1,24 @@
+{
+  "name": "lacona-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brad Vogel <brad@mixmax.com> (https://mixmax.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "lacona": "^0.36.0",
+    "lacona-phrase": "^0.9.1",
+    "lacona-phrase-datetime": "^0.8.0",
+    "lacona-phrase-freetext": "^0.7.0",
+    "lacona-phrase-string": "^0.4.0",
+    "moment": "^2.11.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-runtime": "^6.5.0"
+  }
+}
